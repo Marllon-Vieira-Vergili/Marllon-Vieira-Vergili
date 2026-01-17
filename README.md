@@ -1,16 +1,22 @@
 # 👋 Olá! Bem-vindo ao meu GitHub  
 Sou **Marllon Vieira Vergili**  
 
-💻 Desenvolvedor **Java | Spring Boot | React**  
-📚 Sempre aprendendo e explorando novas tecnologias  
+💻 Desenvolvedor  **Java** | **Spring Boot** | **React** | **FrontEnd** | **BackEnd** | **FullStack**  
+📚 Sempre aprendendo e explorando novas tecnologias e **sempre aberto a novas oportunidades**
+<br/>
+
 
 ---
 
 ## 📌 Sobre mim
 - Back-End com Java e Spring Boot  
-- Front-End com React, HTML, CSS e Bootstrap 5  
-- Banco de dados MySQL  
-- Testes unitários com Mockito e JUnit  
+- Front-End com React, HTML, CSS, Javascript, Typescript e Bootstrap 5  
+- Banco de dados Relacional e Não-Relacional
+- Testes unitários com Mockito e JUnit
+- Git e Github
+- Tecnologias ágeis Scrum
+- Modelagem de banco de dados
+- E muito mais!
 
 ---
 
@@ -43,7 +49,7 @@ Sou **Marllon Vieira Vergili**
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marllonvergili)  
 
 ### 👥 Redes Profissionais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllon-vieira-vergili-00553a208/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllon-vieira/)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=marllon123456)  
 
 ### 🎮 Comunidades
